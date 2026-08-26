@@ -13,7 +13,18 @@ Desenvolvedor Backend Pleno, especialista em integrações de sistemas em ambien
 
 ## Stack
 
-Ruby · Ruby on Rails · AWS (SQS, S3, IAM) · APIs REST · SQL · Sistemas Distribuídos · Mensageria
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gaxz2k&show_icons=true&hide_border=true&bg_color=1a1210&title_color=ff6f8f&icon_color=e0115f&text_color=f7ece9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaxz2k&layout=compact&hide_border=true&bg_color=1a1210&title_color=ff6f8f&text_color=f7ece9" alt="Top languages" />
+</p>
 
 ## Projeto em destaque
 
@@ -21,5 +32,5 @@ Ruby · Ruby on Rails · AWS (SQS, S3, IAM) · APIs REST · SQL · Sistemas Dist
 
 ## Contato
 
-- LinkedIn: [linkedin.com/in/nicholas-alhambra-80b0671b6](https://www.linkedin.com/in/nicholas-alhambra-80b0671b6/)
-- E-mail: niih39@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-alhambra-80b0671b6/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niih39@gmail.com)
