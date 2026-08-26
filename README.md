@@ -19,13 +19,6 @@ Desenvolvedor Backend Pleno, especialista em integrações de sistemas em ambien
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gaxz2k&show_icons=true&hide_border=true&bg_color=1a1210&title_color=ff6f8f&icon_color=e0115f&text_color=f7ece9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaxz2k&layout=compact&hide_border=true&bg_color=1a1210&title_color=ff6f8f&text_color=f7ece9" alt="Top languages" />
-</p>
-
 ## Projeto em destaque
 
 **[Barber Scheduler](https://github.com/gaxz2k/barber_scheduler)** — sistema de agendamento para barbearias em Ruby on Rails: autenticação (Devise), painel administrativo, testes automatizados (RSpec) e CI no GitHub Actions.
