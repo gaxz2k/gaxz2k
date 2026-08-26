@@ -1,4 +1,4 @@
-# Nicholas Alhambra
+![Banner](banner.svg)
 
 Desenvolvedor Backend Pleno, especialista em integrações de sistemas em ambientes SaaS. Atuo principalmente com Ruby on Rails, AWS (SQS, S3, IAM), APIs REST, mensageria e bancos de dados relacionais, transformando fluxos de integração complexos em soluções confiáveis, escaláveis e observáveis.
 

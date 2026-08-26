@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1210"/>
+      <stop offset="100%" stop-color="#2b1016"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="15%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#e0115f" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#e0115f" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+
+  <g transform="translate(90,55)">
+    <polygon points="100,20 40,80 100,110" fill="#ff6f8f"/>
+    <polygon points="100,20 160,80 100,110" fill="#b0043a"/>
+    <polygon points="40,80 100,110 100,190" fill="#d1183f"/>
+    <polygon points="160,80 100,110 100,190" fill="#7a0c27"/>
+    <polygon points="40,80 160,80 100,110" fill="#e0115f"/>
+    <polygon points="80,45 100,20 120,45 100,58" fill="#ffffff" opacity="0.18"/>
+  </g>
+
+  <text x="340" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="700" fill="#f7ece9">Nicholas Alhambra</text>
+  <text x="342" y="196" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#dcb9bd">Backend Developer &#183; Ruby on Rails &#183; AWS</text>
+  <line x1="342" y1="222" x2="1100" y2="222" stroke="#b0043a" stroke-width="3"/>
+  <text x="342" y="258" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#a98d90">APIs REST &#183; Integrações de Sistemas &#183; SQL</text>
+</svg>
